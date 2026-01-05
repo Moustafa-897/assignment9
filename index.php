@@ -65,6 +65,6 @@ function printoddnumber($num)
     printoddnumber(5);
     echo "-------------------------------------";
     printoddnumber(6);
-    
 }
+
 ?>
